@@ -13,7 +13,7 @@ Students can interact with their peers by adding questions and quizzes, challeng
 - **Leaderboard**: Track top performers.
 
 # Overview
-We host this application here: [quizapp](https://devbittu.pythonanywhere.com). Visit and check this out.
+We host this application here: [quizapp](https://comingsoon.com). Visit and check this out.
 
 **NOTE:** For verifying your questions and administrative tasks use this username and password:-
 Create a superuser ```python manage.py createsuperuser``` and login to management
@@ -29,7 +29,7 @@ In windows: ``Install git and python's latest version from their official sites`
 
 2. Clone the repository using the following command:
 ```bash
-git clone https://github.com/dev-bittu/quizapp.git
+git clone https://github.com/Mu-Gee/quizapp.git
 ```
 3. Navigate to the project directory using the following command:
 ```bash
@@ -63,7 +63,8 @@ If you have any ideas, suggestions, or bug reports, please open an issue or subm
 Make sure to follow the project's code of conduct.
 
 ## Author
-- [dev-bittu](https://github.com/dev-bittu "dev-bittu")
+- [Mu-Gee](https://github.com/Mu-Gee "Mu-Gee")
+- [Ndegwadavid](https://github.com/Ndegwadavid "Ndegwadavid")
 
 ## ToDo
 - Add search functionality for questions and quizzes.
