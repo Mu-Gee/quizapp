@@ -62,9 +62,9 @@ Contributions are welcome!
 If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 Make sure to follow the project's code of conduct.
 
-## Author
-- [Mu-Gee](https://github.com/Mu-Gee "Mu-Gee")
-- [Ndegwadavid](https://github.com/Ndegwadavid "Ndegwadavid")
+## Authors
+- [Mu-Gee](https://github.com/Mu-Gee "James Njeru")
+- [Ndegwadavid](https://github.com/Ndegwadavid "David Njoroge")
 
 ## ToDo
 - Add search functionality for questions and quizzes.
