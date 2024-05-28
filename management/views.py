@@ -87,7 +87,7 @@ class Setting(View):
         qlimit = int(request.POST.get("qlimit", 10))
         if qlimit > 0:
             settings.GLOBAL_SETTINGS["questions"] = qlimit
-            messages.success(request, "You preference saved")
+            messages.success(request, "Your preference saved")
         else:
             messages.warning(request, "Question limit can't be 0 or less than 0")
         return redirect("setting")

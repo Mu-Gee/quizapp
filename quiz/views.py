@@ -64,7 +64,7 @@ class AddQuestion(View):
             count += 1
         if already_exists:
             messages.warning(request, f"{already_exists} questions already exists")
-        messages.success(request, f"{count} questions added. Wait until admin not verify it.")
+        messages.success(request, f"{count} Questions added. Wait until admin verifies them.")
         return redirect("quiz")
 
 @method_decorator(login_required, name="dispatch")
