@@ -1,3 +1,5 @@
 django
 tzdata
 pillow
+dj-database-url
+whitenoise
